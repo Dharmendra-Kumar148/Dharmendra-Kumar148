@@ -57,14 +57,6 @@
 
 ---
 
-### 📅 GitHub Contribution Calendar (Snake)
-
-<p align="center">
-  <img src="https://github.com/Dharmendra-Kumar148/Dharmendra-Kumar148/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ### 📍 Visitors
 
 <p align="center">
