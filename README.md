@@ -2,8 +2,12 @@
 <h3 align="center">🚀 A passionate Flutter & Firebase developer from India</h3>
 
 <p align="center">
-  <a href="https://portfolio-eight-flame-6uni0kby1a.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel" /></a>
-  <a href="https://www.linkedin.com/in/dharmendra-kumar-7005871a7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://portfolio-eight-flame-6uni0kby1a.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://www.linkedin.com/in/dharmendra-kumar-7005871a7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
@@ -39,8 +43,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dharmendra-Kumar148&show_icons=true&theme=github_dark&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dharmendra-Kumar148&theme=github-dark-blue&hide_border=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dharmendra-Kumar148&show_icons=true&theme=github_dark&count_private=true&cache_seconds=86400" height="180" />
+  <img src="https://streak-stats.demolab.com?user=Dharmendra-Kumar148&theme=github-dark-blue&hide_border=false&cache_seconds=86400" height="180" />
 </p>
 
 ---
@@ -48,7 +52,15 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dharmendra-Kumar148&theme=monokai&no-frame=true&title=Stars,Commits,Followers,PullRequest,Repositories" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dharmendra-Kumar148&theme=monokai&no-frame=true&title=Stars,Commits,Followers,PullRequest,Repositories&cache_seconds=86400" />
+</p>
+
+---
+
+### 📅 GitHub Contribution Calendar (Snake)
+
+<p align="center">
+  <img src="https://github.com/Dharmendra-Kumar148/Dharmendra-Kumar148/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
