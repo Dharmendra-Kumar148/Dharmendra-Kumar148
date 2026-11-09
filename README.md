@@ -173,17 +173,20 @@ I founded **Narayan Binary Studios (<NBS/>)**, a technology studio focused on bu
 
 ---
 
+
+---
+
 ## `05` / GITHUB ANALYTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dharmendra-Kumar148&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Dharmendra-Kumar148&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Dharmendra-Kumar148&theme=github-dark-blue&hide_border=true" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dharmendra-Kumar148&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmendra-Kumar148&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=Dharmendra-Kumar148&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -193,7 +196,17 @@ I founded **Narayan Binary Studios (<NBS/>)**, a technology studio focused on bu
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharmendra-Kumar148&bg_color=0d1117&color=00D084&line=00D084&point=FFFFFF&area=true&hide_border=true" width="100%" />
+**Consistent learning. Continuous building.**
+
+Check out my latest repositories and contributions:
+
+<a href="https://github.com/Dharmendra-Kumar148?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORIES-00D084?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+
+<a href="https://github.com/Dharmendra-Kumar148?tab=overview">
+  <img src="https://img.shields.io/badge/VIEW_CONTRIBUTIONS-161B22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -203,22 +216,12 @@ I founded **Narayan Binary Studios (<NBS/>)**, a technology studio focused on bu
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dharmendra-Kumar148&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-### CONNECT • BUILD • INNOVATE
-
-**"Great software starts with a simple idea and the courage to build it."**
-
-<img src="https://komarev.com/ghpvc/?username=Dharmendra-Kumar148&label=PROFILE+VIEWS&color=00D084&style=for-the-badge" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:111827,100:050816&height=100&section=footer" width="100%" />
+| Focus | Goal |
+|:---|:---|
+| 📱 Flutter | Build useful cross-platform apps |
+| 🌐 React | Create modern web experiences |
+| 🤖 AI | Integrate practical AI features |
+| ⚙️ Engineering | Improve architecture and deployment |
+| 🚀 Entrepreneurship | Build digital products through NBS |
 
 </div>
