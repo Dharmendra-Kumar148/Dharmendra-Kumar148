@@ -53,7 +53,43 @@ philosophy: "Build useful products. Keep learning. Ship better."
 
 ---
 
-## `02` / TECH STACK
+
+---
+
+## `02` / BUILDING SOMETHING BIG
+
+<div align="center">
+
+# <span>&lt;NBS/&gt;</span>
+
+### Narayan Binary Studios
+
+**Turning Ideas Into Digital Products.**
+
+Building modern digital solutions through technology, creativity and innovation.
+
+<a href="https://www.NarayanBinaryStudios.com">
+  <img src="https://img.shields.io/badge/EXPLORE_NBS-00D084?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
+
+</div>
+
+### Founder & Developer
+
+I founded **Narayan Binary Studios (<NBS/>)**, a technology studio focused on building digital products and helping businesses grow through technology.
+
+**Our services:**
+- 🌐 Website Design & Development
+- 📱 Mobile Application Development
+- 🛒 E-commerce Solutions
+- 🤖 AI-Powered Solutions
+- ⚙️ Custom Software Development
+
+**Website:** https://www.NarayanBinaryStudios.com
+
+---
+
+## `03` / TECH STACK
 
 ### Mobile Development
 
@@ -87,7 +123,7 @@ philosophy: "Build useful products. Keep learning. Ship better."
 
 ---
 
-## `03` / WHAT I BUILD
+## `04` / WHAT I BUILD
 
 <table>
 <tr>
@@ -137,7 +173,7 @@ philosophy: "Build useful products. Keep learning. Ship better."
 
 ---
 
-## `04` / GITHUB ANALYTICS
+## `05` / GITHUB ANALYTICS
 
 <div align="center">
 
@@ -153,7 +189,7 @@ philosophy: "Build useful products. Keep learning. Ship better."
 
 ---
 
-## `05` / CONTRIBUTION ACTIVITY
+## `06` / CONTRIBUTION ACTIVITY
 
 <div align="center">
 
@@ -163,7 +199,7 @@ philosophy: "Build useful products. Keep learning. Ship better."
 
 ---
 
-## `06` / ACHIEVEMENTS
+## `07` / ACHIEVEMENTS
 
 <div align="center">
 
